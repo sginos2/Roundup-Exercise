@@ -1,0 +1,61 @@
+id,firstName,lastName,class,credit
+1234,Scott,Weeks,BIKE 101: Bicycle Repair,3
+1234,Scott,Weeks,SKT 101: Skateboarding,5
+1234,Scott,Weeks,MOT 101: Motorcycle Repair,4
+2345,Serena,Meyer,BIK 101: Bicycle Repair,3
+2345,Serena,Meyer,SKT 101: Skateboarding,5
+2345,Serena,Meyer,MOT 101: Motorcycle Repair,4
+3456,Christie,Webster,BIKE 101: Bicycle Repair,3
+3456,Christie,Webster,SKT 101: Skateboarding,5
+3456,Christie,Webster,MOT 101: Motorcycle Repair,4
+4567,Mark,Webb,BIKE 101: Bicycle Repair,3
+4567,Mark,Webb,SKT: Skateboarding,5
+4567,Mark,Webb,MOT 101: Motorcycle Repair,4
+5678,George,Anderson,BIKE 101: Bicycle Repair,3
+5678,George,Anderson,SKT: Skateboarding,5
+5678,George,Anderson,MOT 101: Motorcycle Repair,4
+6789,Angie,Boot,BIKE 101: Bicycle Repair,3
+6789,Angie,Boot,SKT: Skateboarding,5
+6789,Angie,Boot,MOT 101: Motorcycle Repair,4
+7890,Ben,Joon,BIKE 101: Bicycle Repair,3
+7890,Ben,Joon,SKT: Skateboarding,5
+7890,Ben,Joon,MOT 101: Motorcycle Repair,4
+8901,Fred,Porter,BIKE 101: Bicycle Repair,3
+8901,Fred,Porter,SKT: Skateboarding,5
+8901,Fred,Porter,MOT 101: Motorcycle Repair,4
+9012,Kenny,Logger,BIKE 101: Bicycle Repair,3
+9012,Kenny,Logger,SKT: Skateboarding,5
+9012,Kenny,Logger,MOT 101: Motorcycle Repair,4
+0123,Simba,Leones,BIKE 101: Bicycle Repair,3
+0123,Simba,Leones,SKT: Skateboarding,5
+0123,Simba,Leones,MOT 101: Motorcycle Repair,4
+1123,Carrie,Gorda,CSC 101: Computer Programming,3
+1123,Carrie,Gorda,PED 101: Pedicure Intro,3
+1123,Carrie,Gorda,INS 101: Stepping into Insurance,3
+2234,Brett,Michelin,CSC 101: Computer Programming,3
+2234,Brett,Michelin,PED 101: Pedicure Intro,3
+2234,Brett,Michelin,INS 101: Stepping into Insurance,3
+3345,Tommy,Hillfinger,CSC 101: Computer Programming,3
+3345,Tommy,Hillfinger,PED 101: Pedicure Intro,3
+3345,Tommy,Hillfinger,INS 101: Stepping into Insurance,3
+4456,Heather,Lockleer,CSC 101: Computer Programming,3
+4456,Heather,Lockleer,PED 101: Pedicure Intro,3
+4456,Heather,Lockleer,INS 101: Stepping into Insurance,3
+5567,Tom,Cruzer,CSC 101: Computer Programming,3
+5567,Tom,Cruzer,PED 101: Pedicure Intro,3
+5567,Tom,Cruzer,INS 101: Stepping into Insurance,3
+6678,Shanna,Ginos,CSC 101: Computer Programming,3
+6678,Shanna,Ginos,PED 101: Pedicure Intro,3
+6678,Shanna,Ginos,INS 101: Stepping into Insurance,3
+7789,Yulissa,Gill,CSC 101: Computer Programming,3
+7789,Yulissa,Gill,PED 101: Pedicure Intro,3
+7789,Yulissa,Gill,INS 101: Stepping into Insurance,3
+8890,Kade,Zimmerman,CSC 101: Computer Programming,3
+8890,Kade,Zimmerman,PED 101: Pedicure Intro,3
+8890,Kade,Zimmerman,INS 101: Stepping into Insurance,3
+9901,Brent,Knudsen,CSC 101: Computer Programming,3
+9901,Brent,Knudsen,PED 101: Pedicure Intro,3
+9901,Brent,Knudsen,INS 101: Stepping into Insurance,3
+0012,Thomas,Chan,CSC 101: Computer Programming,3
+0012,Thomas,Chan,PED 101: Pedicure Intro,3
+0012,Thomas,Chan,INS 101: Stepping into Insurance,3
